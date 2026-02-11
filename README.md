@@ -16,9 +16,9 @@
 
 <br/>
 
-![Estatísticas do GitHub](https://github-readme-stats-eight-theta.vercel.app/api?username=Muryloyaralian&show_icons=true&theme=radical&include_all_commits=true)
+![Estatísticas do GitHub](https://github-readme-stats-eight-theta.vercel.app/api?username=Muryloyaralian&show_icons=true&theme=dark&include_all_commits=true)
 
-![Linguagens mais usadas](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Muryloyaralian&layout=compact&theme=radical&langs_count=10)
+![Linguagens mais usadas](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Muryloyaralian&layout=compact&theme=dark&langs_count=10)
 
 </div>
 
